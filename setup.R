@@ -16,3 +16,12 @@ blogdown::stop_server()
 
 # run in terminal to force build
 curl -X POST -d '{}' https://api.netlify.com/build_hooks/60c0c716ac8ece1126e7d908
+
+
+# GitHub Token
+install.packages("gitcreds")
+library(gitcreds)
+usethis::create_github_token()
+gitcreds::gitcreds_set()
+
+
