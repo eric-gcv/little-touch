@@ -1,0 +1,90 @@
+baseURL: https://www.littletouch.pl
+languageCode: en-us
+title: Little Touch | Comming Soon
+theme: infinity-hugo
+removePathAccents: yes
+params:
+  about:
+    description: Experts in sensory stimulation for you infant's better development.
+    enable: yes
+    heading: Experts in sensory stimulation for you infant's better development..
+    sliderItem:
+      - image: images/about/1.jpg
+      - image: images/about/2.jpg
+      - image: images/about/3.jpg
+      - image: images/about/2.jpg
+  contact:
+    enable: yes
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+    title: Get In Touch
+  cta:
+    bg: images/call-to-action.jpg
+    enable: yes
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    title: Subscribe to our mailing list
+  customHead: ''
+  hero:
+    bg: images/header-bg.jpg
+    btnText: Get Started
+    countdownDay: '01'
+    countdownMonth: '03'
+    countdownYear: '2022'
+    disableCountdown: no
+    enable: yes
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna
+    title: Little Touch is under construction. Coming soon!
+  navigation:
+    about: About
+    contact: Contact
+    home: Home
+    logo: images/logo.png
+    service: Services
+  service:
+    enable: yes
+    serviceItem:
+      - delay: 0s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-strategy
+        title: Fully Responsive
+      - delay: 0.2s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-circle-compass
+        title: Speed Optimized
+      - delay: 0.4s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-anchor2
+        title: Tons of Feature
+      - delay: 0.6s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-globe
+        title: Fully SEO Optimized
+      - delay: 0.8s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-strategy
+        title: Fully Responsive
+      - delay: 1s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-circle-compass
+        title: Speed Optimized
+      - delay: 1.2s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-anchor2
+        title: Tons of Feature
+      - delay: 1.5s
+        description: Lorem ipsum dolor sit amet, con-sectetur adipisicing elit, sed
+          do eiusmod tempor incididunt ut
+        icon: tf-globe
+        title: Fully SEO Optimized
+    subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et
+    title: Find Better Solutions Build Better Products
