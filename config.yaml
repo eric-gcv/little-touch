@@ -7,7 +7,7 @@ params:
   about:
     description: Experts in sensory stimulation for you infant's better development.
     enable: yes
-    heading: Experts in sensory stimulation for you infant's better development..
+    heading: Experts in sensory stimulation for you infant's better development.
     sliderItem:
       - image: images/about/1.jpg
       - image: images/about/2.jpg
@@ -33,8 +33,7 @@ params:
     countdownYear: '2022'
     disableCountdown: no
     enable: yes
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna
+    subtitle: Experts in sensory stimulation for you infant's better development.
     title: Little Touch is under construction. Coming soon!
   navigation:
     about: About
