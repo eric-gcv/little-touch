@@ -14,7 +14,7 @@ params:
       - image: images/about/3.jpg
       - image: images/about/2.jpg
   contact:
-    enable: yes
+    enable: no
     subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex
